@@ -11,7 +11,7 @@ system anytime.
 This project analyzes Cyclistic's bike-share data to identify usage patterns of casual riders vs. annual members. The goal is to develop marketing strategies to convert casual riders into members.  
 
 ### 📊 Data  
-- [-> Data <-](https://github.com/ChristianJudge/Cyclistic_Analysis/blob/main/Divvy_Trips_Q1.zip)
+- [-> Data <-](https://github.com/ChristianJudge/Cyclistic_Analysis/blob/main/Divvy_Trips_Q1 (3).zip)
 - **Source:** Public datasets from Motivate International Inc.
 - **Time Period:** Q1 2019 & Q1 2020  
 - **Contents:** Bike trip records with timestamps, user types, ride duration, and station data.  
